@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virgilaurand
-- 👀 I’m interested in projects related to I.T. infrastructure, cloud architecture and data science.
+- 👀 I’m interested in projects related to I.T. infrastructure, cloud architecture, security, and data science.
 - 🌱 I’m currently working on Python exercises and projects and posting them here.
 - 📫 How to reach me --> https://vco.dev.
 
